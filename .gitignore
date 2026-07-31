@@ -1,0 +1,6 @@
+# Solo se publican los artefactos expresamente copiados a releases/.
+*
+!.gitignore
+!README.md
+!releases/
+!releases/**
