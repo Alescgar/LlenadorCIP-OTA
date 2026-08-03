@@ -1,0 +1,9 @@
+{
+  "version": "0.5.1",
+  "size": 1409008,
+  "sha256": "1dcb78c78cfadf005a08decca9ed78efd69125de50243aa944bc719e1eb75e94",
+  "build": "2026-08-03T13:14:42Z",
+  "target": "esp32",
+  "project": "llenador_cip",
+  "url": "https://raw.githubusercontent.com/Alescgar/LlenadorCIP-OTA/main/releases/0.5.1/llenador_cip.bin"
+}
